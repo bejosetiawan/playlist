@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/476rnmv168b44rwwyekg"
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CELESTIAL MOVIES" tvg-logo="" group-title="DENS TV",CELESTIAL MOVIES
 http://op-group1-swiftservehd-1.dens.tv/h/h212/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CLASICA" tvg-logo="" group-title="DENS TV",CLASICA
