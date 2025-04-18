@@ -4,6 +4,10 @@
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 #EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-name="CNBC INDONESIA" tvg-logo="https://iili.io/28yAlAN.png" group-title="DAVA LINTANG TV",CNBC INDONESIA
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="BeritaSatu" tvg-logo="https://iili.io/28yoB87.png" group-title="DAVA LINTANG TV", Beritasatu
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+#EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" tvg-logo="https://iili.io/28yoB87.png" group-title="DAVA LINTANG TV", BTV
+http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843h.m3u8
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="TRANS TV" tvg-logo="https://iili.io/JMp3ZUG.png" group-title="DAVA LINTANG TV",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w988572694_b744100_sleng.m3u8
 #EXTINF:-1 tvg-id="Trans7.my.id" tvg-name="TRANS 7" tvg-logo="https://iili.io/JMp3Qls.png" group-title="DAVA LINTANG TV",TRANS 7
