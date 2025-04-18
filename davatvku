@@ -69,7 +69,4 @@ http://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LIVE" tvg-logo="https://iili.io/JMp3DJf.png" group-title="DAVA LINTANG TV", LIVE
-https://play1nm.hnyongshun.cn/live/ballbar_13060.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="LIVE" tvg-logo="" group-title="DAVA LINTANG TV", LIVE 2
-https://su00youing-cf.tikballaa.com/auth%3D552ae94582bd6fe9b40573aed1a7acb25fd2618be2d8372c9feb629d68f4fe03c34f6742260921e6840d4e413e3577818164e1a150071a4d34348548125410496a5d9eb2b21bdb47619fcdcd683218d2ec670a1a268485d04f29ceaebee6d3fd9a7332b7472616ae127cd509bca4b5aa96966a9467a095ea0d8b1485bcea2013f39684fea83774db77b321fff680f4ab80f29c883351282839d644fb855317d31b2b0b806e63e9aaaeb227aa9a4fe4b16d91c1a699eb5013ba98a31a3690e0573d45dc8082dbfc11ee6d1925d2084ef340c09ca1aabca239ed50c34ed0cde00b2299453c1d9b680ec1a50f26a878d77ba96f18f3ea69d2b87297492b8e31c140%26cid%3DvEFS1gS9j6-h_bAPWfkOq250418%26_v%3D2%26_r%3DGQSnlj%26_vis%3Da73ab6ff48632f6ca1a931a997fad47b629b96dfdd34e10e53e5a34c96d6704c%26_vvs%3Dbed5c9db1f532850a7c222f97b730feef6b5bf4a50eb415c6af84a6c371952e3/transcode/c341673_480p.m3u8
+https://hls.uouetrq19.com/live/sd-6MsDBFWcnbr2fHKkkf.m3u8?txSecret=c824b1730fe6cf7c2a9b0ccd07d5d795&txTime=68035F12
