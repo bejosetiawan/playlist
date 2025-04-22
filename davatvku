@@ -36,6 +36,8 @@ https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 #EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://iili.io/JMp3PVt.png" group-title="DAVA LINTANG TV", RTV
 http://khano.nng.cloudns.us/live/m3u8/id/590642f0a31efa4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VTV" tvg-logo="" group-title="DAVA LINTANG TV", VTV
+https://flv.intechmedia.net/live/ch107.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfb76a400a6af053881f7fff14483323:aa5af1f3edb3abd10a68b8f7e7c0b1ad
