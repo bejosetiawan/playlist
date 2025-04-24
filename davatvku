@@ -20,11 +20,7 @@ https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
-#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://iili.io/JV3x4Fs.png" group-title="DAVA LINTANG TV", iNews
-##https://d1abp075u76pbq.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd|Referer=https://www.visionplus.id
-https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+
 
 #EXTINF:-1 tvg-name="GTV" tvg-logo="https://iili.io/JV3x4Fs.png" group-title="DAVA LINTANG TV",GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
