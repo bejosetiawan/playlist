@@ -71,8 +71,14 @@ http://khano.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
 #EXTINF:-1 tvg-id="Indosiar.my.id" tvg-name="Indosiar ᴴᴰ" tvg-logo="https://iili.io/JMp3wV1.png" group-title="DAVA LINTANG TV", INDOSIAR
 http://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DAVA LINTANG TV", INDONESIANA
+https://tvstreamcast.com/indonesiana.m3u8
+
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="TVRI Nasional" tvg-logo="https://iili.io/JMp3DJf.png" group-title="DAVA LINTANG TV", TVRI NASIONAL
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JMp3DJf.png" group-title="DAVA LINTANG TV", TVRI SUL SEL
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TVRI SPORT" tvg-logo="https://iili.io/JMp3DJf.png" group-title="DAVA LINTANG TV", TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
