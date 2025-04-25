@@ -46,12 +46,8 @@ http://khano.nng.cloudns.us/live/m3u8/id/590642f0a31efa4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VTV" tvg-logo="" group-title="DAVA LINTANG TV", VTV
 https://flv.intechmedia.net/live/ch107.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfb76a400a6af053881f7fff14483323:aa5af1f3edb3abd10a68b8f7e7c0b1ad
-#EXTINF:-1 tvg-id="SEAToday.id" tvg-name="SEA Today" tvg-logo="https://iili.io/JV3xLAl.png" group-title="DAVA LINTANG TV", SEA TODAY
-https://d1abp075u76pbq.cloudfront.net/live/eds/SEA-Channel/sa_dash/SEA-Channel.mpd|Referer=https://www.visionplus.id
-https://hls.seatoday.com/hls_hd/seatoday.m3u8
-http://khano.nng.cloudns.us/live/m3u8/id/2224e34a782179c.m3u8
+#EXTINF:-1 tvg-id="Moji" tvg-url="" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="DAVA LINTANG TV",MOJI
+http://opplex.tv:8080/live/mother/mother/350997.ts
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="TRANS TV" tvg-logo="https://iili.io/JMp3ZUG.png" group-title="DAVA LINTANG TV",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w988572694_b744100_sleng.m3u8
@@ -71,11 +67,21 @@ http://khano.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
 #EXTINF:-1 tvg-id="Indosiar.my.id" tvg-name="Indosiar ᴴᴰ" tvg-logo="https://iili.io/JMp3wV1.png" group-title="DAVA LINTANG TV", INDOSIAR
 http://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 
+#EXTINF:-1 tvg-id="NET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/512px-MDTV_logo.svg.png" group-title="DAVA LINTANG TV" , MDTV
+#EXTVLCOPT:http-origin=https://www.dens.tv
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 
+https://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DAVA LINTANG TV", INDONESIANA
 https://tvstreamcast.com/indonesiana.m3u8
 
 #EXTINF:-1 tvg-id="Nusantara.TV.id" tvg-name="Nusantara TV" tvg-logo="https://iili.io/2W8UsX2.png" group-title="DAVA LINTANG TV", NUSANTARA TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmoB4cX.png" group-title="DAVA LINTANG TV", MENTARI
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd|user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="TVRI Nasional" tvg-logo="https://iili.io/JMp3DJf.png" group-title="DAVA LINTANG TV", TVRI NASIONAL
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
