@@ -43,8 +43,10 @@ https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 #EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://iili.io/JMp3PVt.png" group-title="DAVA LINTANG TV", RTV
 http://khano.nng.cloudns.us/live/m3u8/id/590642f0a31efa4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VTV" tvg-logo="" group-title="DAVA LINTANG TV", VTV
-https://flv.intechmedia.net/live/ch107.m3u8
+
+#EXTINF:-1 group-title="DAVA LINTANG TV" tvg-logo="https://thumbor.prod.vidiocdn.com/CjN9Xxo8VbEF-D3bK8Xxpiy4c_A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg",MAGNA CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-group1-swiftservehd-1.dens.tv/h/h24/02.m3u8
 
 #EXTINF:-1 tvg-id="Moji" tvg-url="" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="DAVA LINTANG TV",MOJI
 http://opplex.tv:8080/live/mother/mother/350997.ts
