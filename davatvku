@@ -127,5 +127,6 @@ https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
 
 #EXTINF:-1 tvg-id="TVRISport.id" tvg-name="TVRI SPORT" tvg-logo="https://iili.io/JMp3DJf.png" group-title="DAVA LINTANG TV", TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-
+#EXTINF:-1 data-source="Manual" group-title="DAVA LINTANG TV" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="afedf3f90d2a0d7a23880231d7a1c697", TSN 1 ALT
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
 
