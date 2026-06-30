@@ -129,4 +129,5 @@ https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 data-source="Manual" group-title="DAVA LINTANG TV" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="afedf3f90d2a0d7a23880231d7a1c697", TSN 1 ALT
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
-
+#EXTINF:-1 data-source="Manual" group-title="DAVA LINTANG TV" tvg-id="Caze TV" tvg-logo="https://i.ibb.co.com/9JJ04g9/1000284076.png" tvg-uid="99ef94130f3489affb3afedba1f3ffe5", Caze TV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
