@@ -20,7 +20,8 @@ https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 
-
+#EXTINF:-1 tvg-id="" tvg-name="HI HIP HORE" tvg-logo="" group-title="DAVA LINTANG TV", HIP HIP HORE
+http://202.169.224.202:8800/udp/239.9.1.28:1234
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
