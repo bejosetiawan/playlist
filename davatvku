@@ -79,7 +79,8 @@ https://tvstreamcast.com/indonesiana.m3u8
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/JmoB4cX.png" group-title="DAVA LINTANG TV", MENTARI
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd|user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C80nmAc3kfgfnlJ4q2odTO7M/ts
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
